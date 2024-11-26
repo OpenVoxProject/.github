@@ -23,9 +23,7 @@ Don't forget that all participation is governed by our [Code of conduct](https:/
 
 ### 🏘️ Sponsorship
 
-Overlook InfraTech is sponsoring and stewarding the community driven OpenPhoenix project. This is a
-completely open source Puppet™️ distribution, which we hope to eventually become the standard
-upstream source.
+Overlook InfraTech is currently sponsoring and stewarding the community driven OpenPhoenix project.
 
 See our [installation guide](https://overlookinfratech.com/downloads/) for information on how to
 start using it. The packages are currently straght rebuilds of the last releases from Puppet, Inc.
