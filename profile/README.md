@@ -1,16 +1,18 @@
-## Welcome to the Overlook InfraTech community 👋
+## Welcome to the OpenPhoenix community 👋
 
-Overlook InfraTech is a public benefit company founded under the radical premise that the company exists to serve the community. We literally have our committment to the Open Source ethos written into our bylaws.
-We do this by focusing on ecosystem value rather than only on ways to extract resources from a target market.
+Like the mythical bird, OpenPhoenix has risen from the ashes of what used to be Open Source Puppet.
+This name is a nod to the Core Puppet team, codenamed *Phoenix* which kept the dream alive for
+many years with little to no support. We are still in the process of forming and architecting
+our governance, so follow this space!
 
-<img align="right" src="https://github.com/user-attachments/assets/0b82a2e6-f32e-430b-a2c3-a3b21f07e636" alt="Hambone looking out over the waterfront" width="400">
-
-The name Overlook harkens back to our roots as Puppet's Open Source Stewards group. The common area of our Portland office was downtown looking out over the waterfront and festivals of all kinds. We'd often organize Engineering outings to the Oregon Brewfest across the street, and every Friday afternoon we'd gather to socialize while we finished up tasks for the week. This common area was called _The Overlook_ and this is my silly Pekingese dog, Hambone, giving the view his stamp of approval.
+OpenPhoenix is fully Puppet™️ compatible, so modules from the Forge will work, examples and guidelines
+from books will all work, etc. All the OSP / Puppetserver / PuppetDB / etc docs from puppet.com/docs
+apply. When we inevitably end up diverging, we will document that and create our own docs space.
 
 
 ### 🎪 An interconnected community
 
-You can get involved in the OpenPuppet community by connecting at events, getting or giving help in any of our many channels, sharing modules on the Forge, contributing code, docs, or any of your valuable insights--and many other ways, too! However you decide to jump in, we know you’ll learn a lot and enjoy meeting the smart, friendly people who make up the Puppet community. Maybe you'll even fall in with our good friends at [🦊 Vox Pupuli](https://voxpupuli.org)!
+You can get involved in the OpenPhoenix community by connecting at events, getting or giving help in any of our many channels, sharing modules on the Forge, contributing code, docs, or any of your valuable insights--and many other ways, too! However you decide to jump in, we know you’ll learn a lot and enjoy meeting the smart, friendly people who make up the OpenPhoenix community. Maybe you'll even fall in with our good friends at [🦊 Vox Pupuli](https://voxpupuli.org)!
 
 - 💬 [Vox Pupuli Slack](https://short.voxpupu.li/puppetcommunity_slack_signup)
 - 🛠️ https://forge.puppet.com
@@ -19,11 +21,15 @@ You can get involved in the OpenPuppet community by connecting at events, gettin
 Don't forget that all participation is governed by our [Code of conduct](https://voxpupuli.org/coc/).
 
 
-### 🏘️ The OpenPuppet project
+### 🏘️ Sponsorship
 
-Overlook InfraTech is sponsoring and stewarding the community driven OpenPuppet project. This is a completely open source Puppet distribution, which we hope to eventually become the standard upstream source.
+Overlook InfraTech is sponsoring and stewarding the community driven OpenPhoenix project. This is a
+completely open source Puppet™️ distribution, which we hope to eventually become the standard
+upstream source.
 
-See our [installation guide](https://overlookinfratech.com/downloads/) for information on how to start using it.
+See our [installation guide](https://overlookinfratech.com/downloads/) for information on how to
+start using it. The packages are currently straght rebuilds of the last releases from Puppet, Inc.
+but will soon be rebranded to OpenPhoenix.
 
 
 ### 🎁 Contributing to the ecosystem
@@ -32,8 +38,8 @@ Community contributions are awesome and part of the way that we continue to evol
 
 * If you'd like to contribute to Vox Pupuli modules, then check out [their contributor's guide](https://voxpupuli.org/contributing/).
 * For contributing to third-party modules, please see the contribution guidelines in the module's repository. If there is no guideline, then use your best judgement. Check the closed and open issues to see if you're attacking a known issue and follow [best practices](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/getting-started/best-practices-for-pull-requests).
-* To contribute to the OpenPuppet project, follow [our contributor's guide](https://github.com/overlookinfra/OpenPuppet/blob/main/CONTRIBUTING.md)
-* For all other projects in this organization; thank you, but we are not inviting contributions while we're working on forming the OpenPuppet project.
+* To contribute to the OpenPhoenix project, follow [our contributor's guide](https://github.com/overlookinfra/OpenPuppet/blob/main/CONTRIBUTING.md)
+* For all other projects in this organization; thank you, but we are not inviting contributions while we're working on forming the OpenPhoenix project.
 
 ### 🎟️ Reporting issues
 
