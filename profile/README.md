@@ -1,7 +1,7 @@
 ## Welcome to the OpenPhoenix community 👋
 
 Like the mythical bird, OpenPhoenix has risen from the ashes of what used to be Open Source Puppet.
-This name is a nod to the Core Puppet team, codenamed *Phoenix* which kept the dream alive for
+This name is a nod to the Core Puppet team, codenamed *Phoenix*, which kept the dream alive for
 many years with little to no support. We are still in the process of forming and architecting
 our governance, so follow this space!
 
