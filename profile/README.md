@@ -26,7 +26,7 @@ Don't forget that all participation is governed by our [Code of conduct](https:/
 Overlook InfraTech is currently sponsoring and stewarding the community driven OpenVox project.
 
 See our [installation guide](https://overlookinfratech.com/downloads/) for information on how to
-start using it. The packages are currently straght rebuilds of the last releases from Puppet, Inc.
+start using it. The packages are currently straight rebuilds of the last releases from Puppet, Inc.
 but will soon be rebranded to OpenVox and relocated within this space.
 
 
@@ -41,8 +41,4 @@ Community contributions are awesome and part of the way that we continue to evol
 
 ### 🎟️ Reporting issues
 
-We use GitHub Issues exclusively. Please reporting problems directly on each repository. 
-
-
-
-
+We use GitHub Issues exclusively. Please report problems directly on each repository.
