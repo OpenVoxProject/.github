@@ -36,7 +36,7 @@ Community contributions are awesome and part of the way that we continue to evol
 
 * If you'd like to contribute to Vox Pupuli modules, then check out [the contributor's guide](https://voxpupuli.org/contributing/).
 * For contributing to third-party modules, please see the contribution guidelines in the module's repository. If there is no guideline, then use your best judgement. Check the closed and open issues to see if you're attacking a known issue and follow [best practices](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/getting-started/best-practices-for-pull-requests).
-* To contribute to the OpenVox build pipelines, follow [our contributor's guide](https://github.com/OpenVoxProject/build-pipeline/blob/main/CONTRIBUTING.md)
+* To contribute to the OpenVox build pipelines, follow [our contributor's guide](https://github.com/OpenVoxProject/planning/wiki/How-OpenVox-builds-work)
 * For all other projects in this organization; thank you, but we are not inviting contributions while we're working on forming the OpenVox project.
 
 ### 🎟️ Reporting issues
