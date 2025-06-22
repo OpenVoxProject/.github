@@ -1,6 +1,6 @@
 ## Welcome to the OpenVox community 👋
 
-Like the mythical bird, OpenVox has risen from the ashes of what used to be Open Source Puppet. We are still in the process of forming and architecting our governance, so follow this space!
+OpenVox has risen from the ashes of what used to be Open Source Puppet. We are still in the process of forming and architecting our governance, so follow this space!
 
 OpenVox is fully Puppet™️ compatible, so modules from the Forge will work, examples and guidelines
 from books will all work, etc. All the OSP / Puppetserver / PuppetDB / etc docs from puppet.com/docs
