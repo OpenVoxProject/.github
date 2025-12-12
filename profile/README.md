@@ -25,9 +25,9 @@ Don't forget that all participation is governed by our [Code of conduct](https:/
 
 ### 🏘️ Sponsorship
 
-Overlook InfraTech is currently sponsoring and stewarding the community driven OpenVox project.
+[Overlook InfraTech](https://github.com/overlookinfra) is currently sponsoring and stewarding the community driven OpenVox project.
 
-@betadots GmbH is sponsoring the Vox Pupuli and OpenVox container builds.
+[betadots GmbH](https://github.com/betadots) is sponsoring the Vox Pupuli and OpenVox container builds.
 
 See our [installation guide](https://voxpupuli.org/openvox/install/) for information on how to
 start using it. The packages are currently straight rebuilds of the last releases from Puppet, Inc.
