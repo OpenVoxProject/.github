@@ -15,8 +15,10 @@ Maybe you'll even get involved with [🦊 Vox Pupuli](https://voxpupuli.org) and
 
 - 📝 [OpenVox Project planning discussions](https://github.com/OpenVoxProject/planning/discussions)
 - 💬 [Vox Pupuli Slack](https://short.voxpupu.li/puppetcommunity_slack_signup)
-- 🛠️ https://forge.puppet.com
-- 📰 https://dev.to/t/puppet [![RSS Icon](https://github.com/user-attachments/assets/3eefd12a-71c4-4096-9ec7-8dc35d92d88c)](https://dev.to/feed/tag/puppet)
+- 💌 [IRC and more](https://voxpupuli.org/connect/)
+- 🛠️ <https://forge.puppet.com/modules/puppet>
+- 🦊 <https://dev.to/t/voxpupuli> [![RSS Icon](https://github.com/user-attachments/assets/3eefd12a-71c4-4096-9ec7-8dc35d92d88c)](https://dev.to/feed/tag/voxpupuli)
+- 📰 <https://dev.to/t/puppet> [![RSS Icon](https://github.com/user-attachments/assets/3eefd12a-71c4-4096-9ec7-8dc35d92d88c)](https://dev.to/feed/tag/puppet)
 
 Don't forget that all participation is governed by our [Code of conduct](https://voxpupuli.org/coc/).
 
@@ -24,6 +26,8 @@ Don't forget that all participation is governed by our [Code of conduct](https:/
 ### 🏘️ Sponsorship
 
 Overlook InfraTech is currently sponsoring and stewarding the community driven OpenVox project.
+
+@betadots GmbH is sponsoring the Vox Pupuli and OpenVox container builds.
 
 See our [installation guide](https://voxpupuli.org/openvox/install/) for information on how to
 start using it. The packages are currently straight rebuilds of the last releases from Puppet, Inc.
