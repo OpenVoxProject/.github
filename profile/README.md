@@ -1,3 +1,5 @@
+<center><img src="https://github.com/voxpupuli/logos/blob/master/images/OpenVox/Black/openvox_wortbildmarke_1/openvox_wortbildmarke_1.svg?raw=true" style="width: 50%; height: 50%" /></center>
+
 ## Welcome to the OpenVox community 👋
 
 OpenVox has risen from the ashes of what used to be Open Source Puppet. We are still in the process of forming and architecting our governance, so follow this space!
