@@ -18,9 +18,9 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: OpenVoxProject
-          # filename: profile/github-metrics.svg
-          # output_action: pull-request-merge
-          # plugin_languages: yes
-          # plugin_followup: yes
-          # plugin_rss: yes
-          # plugin_rss_source: https://dev.to/feed/tag/voxpupuli
+          output_action: pull-request
+          filename: profile/github-metrics.svg
+          plugin_languages: yes
+          plugin_followup: yes
+          plugin_rss: yes
+          plugin_rss_source: https://dev.to/feed/tag/voxpupuli
