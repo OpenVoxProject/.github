@@ -92,7 +92,7 @@ git rebase --signoff master
 If you've already pushed commits without the proper signoff to a branch and are attempting to remediate this, then just force-push them after adding the proper annotations.
 
 ```sh
-git push --force origin <branchname>
+git push --force-with-lease origin <branchname>
 ```
 
 ### Sending your patches
