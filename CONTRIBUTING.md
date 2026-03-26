@@ -52,7 +52,6 @@ If this is a Puppet Module: Also consider sending in your profile code that call
   * A detailed explanation is also available at [cbea.ms/git-commit](https://cbea.ms/git-commit/)
 * Include a valid `Signed-off-by` annotation as a [Developer Certificate of Origin](https://en.wikipedia.org/wiki/Developer_Certificate_of_Origin). See the [OpenVox Project DCO](https://github.com/OpenVoxProject/.github/blob/main/DCO.md)
 
-
 ## Writing proper commits - long version
 
 ### Make separate commits for logically separate changes
@@ -95,7 +94,6 @@ If you've already pushed commits without the proper signoff to a branch and are 
 ```sh
 git push --force origin <branchname>
 ```
-
 
 ### Sending your patches
 
