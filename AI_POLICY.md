@@ -17,11 +17,12 @@ The use of AI tools for code contributions is allowed under strict guidelines.
 
 - **Transparency**: You **MUST** disclose the use of AI tools when ***any significant part*** of the contribution is created by AI, whether or not you have since modified it.
   - For example, routine use of assistive tools for correcting grammar and spelling does not need to be disclosed, but "Rewrite with Copilot" does.
-  - Each git commit message should have an attribution trailer according to the kind of augmentation used. The same attribution trailer should be duplicated in the pull request description.
+  - Each git commit message should have an attribution trailer according to the kind of augmentation used. Here are some examples of what that might look like. Choose one that looks reasonable to you.
     - **`Co-authored-by: Claude <noreply@anthropic.com>`** (preferred)
     - `Generated-by: chatgpt-4o`
     - `Assisted-by: AGENT_NAME:MODEL_VERSION [TOOL1] [TOOL2]`
     - `Assisted-by: Grok AI`
+  - The pull request should indicate the use of AI. This can be as simple as "I used Claude to generate this patch" but if you can describe the prompt you used it would be helpful.
   - For non git-tracked contributions, the disclosure should be made in a reasonable place, such as the footer of a document.
 
 - **Licensing and Legal**: All contributions must comply with the project's own licensing requirements. In general, this means Apache 2 or GPL, but individual projects may have different licenses and you should be aware of them.
