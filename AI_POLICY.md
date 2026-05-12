@@ -22,7 +22,7 @@ The use of AI tools for code contributions is allowed under strict guidelines.
     - `Generated-by: chatgpt-4o`
     - `Assisted-by: AGENT_NAME:MODEL_VERSION [TOOL1] [TOOL2]`
     - `Assisted-by: Grok AI`
-  - The pull request should indicate the use of AI. This can be as simple as "I used Claude to generate this patch" but if you can describe the prompt you used it would be helpful.
+  - The pull request should indicate the use of AI. This can be as simple as "I used Claude to generate this patch" but you can add any helpful context you like.
   - For non git-tracked contributions, the disclosure should be made in a reasonable place, such as the footer of a document.
 
 - **Licensing and Legal**: All contributions must comply with the project's own licensing requirements. In general, this means Apache 2 or GPL, but individual projects may have different licenses and you should be aware of them.
