@@ -1,4 +1,4 @@
-<center><img src="https://github.com/voxpupuli/logos/blob/master/images/OpenVox/Black/openvox_wortbildmarke_1/openvox_wortbildmarke_1.svg?raw=true" style="width: 50%; height: 50%" /></center>
+<center><img src="https://github.com/voxpupuli/logos/blob/master/images/OpenVox/Black/openvox_wortbildmarke_1/openvox_wortbildmarke_1_offset_white.svg?raw=true" style="width: 50%; height: 50%" /></center>
 
 ## Welcome to the OpenVox community 👋
 
