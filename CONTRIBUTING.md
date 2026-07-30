@@ -9,11 +9,7 @@
   * [Developer Certificate of Origin](#developer-certificate-of-origin)
   * [Sending your patches](#sending-your-patches)
   * [Update the related GitHub issue](#update-the-related-gitHub-issue)
-* [Puppet development and testing](#puppet-development-and-testing)
-  * [The test matrix](#the-test-matrix)
-  * [Syntax and style](#syntax-and-style)
-  * [Running the unit tests](#running-the-unit-tests)
-  * [Integration tests](#integration-tests)
+* [Puppet testing](#puppet-testing)
 * [Gem development and testing](#gem-development-and-testing)
 
 This project has grown over time based on a range of contributions from people using it.
