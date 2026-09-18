@@ -5,8 +5,7 @@
 OpenVox has risen from the ashes of what used to be Open Source Puppet. We are still in the process of forming and architecting our governance, so follow this space!
 
 OpenVox is fully Puppet™️ compatible, so modules from the Forge will work, examples and guidelines
-from books will all work, etc. All the OSP / Puppetserver / PuppetDB / etc docs from puppet.com/docs
-apply. When we inevitably end up diverging, we will document that and create our own docs space.
+from books will all work, etc. Our documentation lives at <https://docs.openvoxproject.org>.
 
 
 ### 🎪 An interconnected community
@@ -15,6 +14,7 @@ You can get involved in the OpenVox community by connecting at events, getting o
 
 Maybe you'll even get involved with [🦊 Vox Pupuli](https://voxpupuli.org) and help maintain our modules!
 
+- 📚 [OpenVox documentation](https://docs.openvoxproject.org)
 - 📝 [OpenVox Project planning discussions](https://github.com/OpenVoxProject/planning/discussions)
 - 💬 [Vox Pupuli Slack](https://short.voxpupu.li/puppetcommunity_slack_signup)
 - 💌 [IRC and more](https://voxpupuli.org/connect/)
