@@ -2,10 +2,11 @@
 
 ## Welcome to the OpenVox community 👋
 
-OpenVox has risen from the ashes of what used to be Open Source Puppet. We are still in the process of forming and architecting our governance, so follow this space!
+OpenVox has risen from the ashes of what used to be Open Source Puppet. It is a community fork and a [🦊 Vox Pupuli](https://voxpupuli.org) project, run under the [Vox Pupuli governance model](https://github.com/voxpupuli/plumbing/blob/master/share/governance.md) and its elected Project Management Committee.
 
 OpenVox is fully Puppet™️ compatible, so modules from the Forge will work, examples and guidelines
 from books will all work, etc. Our documentation lives at <https://docs.openvoxproject.org>.
+To start using OpenVox, follow the [getting started guide](https://docs.openvoxproject.org/ecosystem/latest/getting_started/) or go straight to [installing it](https://docs.openvoxproject.org/openvox/latest/install_pre.html).
 
 
 ### 🎪 An interconnected community
@@ -27,13 +28,7 @@ Don't forget that all participation is governed by our [Code of conduct](https:/
 
 ### 🏘️ Sponsorship
 
-[Overlook InfraTech](https://github.com/overlookinfra) is currently sponsoring and stewarding the community driven OpenVox project.
-
-[betadots GmbH](https://github.com/betadots) is sponsoring the Vox Pupuli and OpenVox container builds.
-
-See our [installation guide](https://voxpupuli.org/openvox/install/) for information on how to
-start using it. The packages are currently straight rebuilds of the last releases from Puppet, Inc.
-but will soon be rebranded to OpenVox and relocated within this space.
+OpenVox is supported by the sponsors of Vox Pupuli. See the [current sponsors](https://voxpupuli.org/sponsoring/), and how to become one.
 
 
 ### 🎁 Contributing to the ecosystem
@@ -43,7 +38,7 @@ Community contributions are awesome and part of the way that we continue to evol
 * If you'd like to contribute to Vox Pupuli modules, then check out [the contributor's guide](https://voxpupuli.org/contributing/).
 * For contributing to third-party modules, please see the contribution guidelines in the module's repository. If there is no guideline, then use your best judgement. Check the closed and open issues to see if you're attacking a known issue and follow [best practices](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/getting-started/best-practices-for-pull-requests).
 * To contribute to the OpenVox build pipelines, follow [our contributor's guide](https://github.com/OpenVoxProject/planning/wiki/How-OpenVox-builds-work)
-* For all other projects in this organization; thank you, but we are not inviting contributions while we're working on forming the OpenVox project.
+* For every other project in this organization, follow the `CONTRIBUTING.md` in its repository. If it doesn't have one, our [default contribution guidelines](https://github.com/OpenVoxProject/.github/blob/main/CONTRIBUTING.md) apply.
 
 ### 🎟️ Reporting issues
 
