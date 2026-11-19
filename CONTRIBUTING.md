@@ -124,8 +124,8 @@ To sign commits that are already on your branch, run `git rebase --force-rebase 
 
 Read the [AI Usage Policy](https://github.com/OpenVoxProject/.github/blob/main/AI_POLICY.md) before you use AI tools on a contribution.
 You are responsible for every line you submit, including lines that an AI tool wrote.
-If an AI tool created a significant part of a commit, add an attribution trailer to the commit message, and mention the AI use in the pull request description. The AI policy prefers `Co-authored-by: <model> <noreply@...>` and also accepts `Generated-by:` or `Assisted-by:`.
-AI tools must not add `Signed-off-by` lines, because only a human can certify the Developer Certificate of Origin.
+If an AI tool created a significant part of a commit, add one of the attribution trailers the policy lists to the commit message, and mention the AI use in the pull request description.
+Disclosing AI use is not held against you; it tells reviewers where to look closely.
 
 ### Sending your patches
 
