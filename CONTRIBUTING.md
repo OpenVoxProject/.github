@@ -102,6 +102,23 @@ They also have documentation on [creating pull requests](https://docs.github.com
 
 In general, after pushing your topic branch up to your repository on GitHub, you can switch to the branch in the GitHub UI and click "Pull Request" towards the top of the page in order to open a pull request.
 
+### Pushing to a pull request branch
+
+Maintainers can commit directly to a contributor's branch when the author allows [edits by maintainers](https://docs.github.com/en/pull-requests/how-tos/work-with-forks/allowing-changes-to-a-pull-request-branch-created-from-a-fork) and you have push access to the base repository.
+This requires a user-owned fork without branch restrictions.
+
+```sh
+gh pr view <number> --json maintainerCanModify --jq .maintainerCanModify
+gh pr checkout <number>
+git commit -s -S
+git push
+```
+
+The first command must print `true`.
+`gh pr checkout` points the local branch at the contributor's fork.
+If edits are disabled or you lack push access, open a separate pull request.
+Do not force-push without agreement from the author, and use `--force-with-lease` when they agree.
+
 ### Update the related GitHub issue
 
 If there is a GitHub issue associated with the change you submitted, then you should update the ticket to include the location of your branch, along with any other commentary you may wish to make.
